@@ -5,4 +5,4 @@ $sql = 'select * from fk_goods limit 10';
 $stmt = $pdo->query($sql);
 $list = $stmt->fetchAll(PDO::FETCH_ASSOC);
 var_dump($list);
-xxxxxxxxxxxxx;
+kkkkkkkkkkk;
